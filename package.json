@@ -1,0 +1,20 @@
+{
+  "name": "clone-tabenews",
+  "version": "1.0.0",
+  "description": "Projeto teste Curso de programação Curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.9.1",
+    "typescript": "5.6.3"
+  }
+}
