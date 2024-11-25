@@ -4,11 +4,15 @@
   "description": "Projeto teste Curso de programação Curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "vercel-build": "next build"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "lucide-react": "^0.461.0",
     "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
